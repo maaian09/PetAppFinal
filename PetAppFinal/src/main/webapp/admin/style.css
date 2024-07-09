@@ -1,0 +1,40 @@
+.bg-custom{
+	background-color:#ffa726  ;
+}
+/* Custom button colors */
+.custom-search-btn {
+    background-color:#ffa726;
+    color: #ffffff; 
+}
+
+.custom-login-btn {
+    background-color: #ffa726; 
+    color: #000000 ; 
+}
+.custom-login-btn:hover {
+    
+    color: #212121 ; /
+}
+
+.navbar .nav-item:hover .nav-link{
+	background-color:white;
+	color: black;
+	border-radius: 12px; 
+}
+.bold {
+    font-weight: bold;
+}
+.btn-orange {
+    background-color: #ffa726;
+    border-color: #ffa726;
+    color: white; /* Text color */
+}
+
+.btn-orange:hover {
+    background-color: darkorange; /* Darker shade of orange on hover */
+    border-color: darkorange;
+}
+.a{
+	color: black;
+	text-decoration:none;
+}
